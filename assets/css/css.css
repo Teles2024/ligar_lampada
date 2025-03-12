@@ -1,0 +1,8 @@
+body {
+    background-image: url('../img/FUNDO.png'); /* Caminho da imagem de fundo */
+    background-size: cover; /* A imagem vai cobrir toda a tela */
+    background-position: center; /* A imagem será centralizada */
+    background-attachment: fixed; /* A imagem ficará fixa enquanto a página rola */
+    margin: 0;
+    height: 100%;
+}
